@@ -26,7 +26,7 @@ Reasons for selecting Avalonia UI:
 
 1. **Cross-platform compatibility**: Avalonia supports Windows, macOS, and Linux, aligning with our goal of creating a widely accessible application.
 
-2. **.NET integration**: As a .NET-based framework, Avalonia integrates seamlessly with C# and other .NET technologies, making it compatible with Bitwarden's existing codebase.
+2. **.NET integration**: As a .NET-based framework, Avalonia integrates seamlessly with C# and other .NET technologies, techstack familiar for me.
 
 3. **XAML-based**: Avalonia uses XAML for defining user interfaces, which is familiar to developers with WPF or UWP experience, potentially easing the learning curve and development process.
 
